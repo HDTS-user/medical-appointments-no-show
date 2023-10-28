@@ -1,0 +1,14 @@
+{
+    "Gender" : "F",
+    "ScheduledDay" : "2016-04-26T11:29:56Z",
+    "AppointmentDay" : "2016-05-03T00:00:00Z",
+    "Age" : 21,
+    "Neighbourhood" : "JARDIM DA PENHA",
+    "Scholarship" : 1,
+    "Hypertension" : 0,
+    "Diabetes" : 0,
+    "Alcoholism" :0,
+    "Handicap" : 0,
+    "SMS_received" :1,
+    "Prev_Missed" : 0
+}
